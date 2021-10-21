@@ -1,1 +1,2 @@
-Hi This is demo
+# Hi This is demo
+This is foo.txt in ibi-git-module
